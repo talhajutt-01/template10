@@ -1,0 +1,100 @@
+{
+    "title": {
+        "title": "Updated Frica"
+    },
+    "nav": {
+        "nav0": "Updated Home",
+        "nav1": "Updated Computers",
+        "nav2": "Mans Clothes",
+        "nav3": "Womans Clothes",
+        "nav4": "Updated Contact"
+    },
+    "banner": {
+        "b0": "Updated Big Sale Offer",
+        "b1": "Updated Buy Now",
+        "b2": "Updated Contact Us",
+        "b3": "Updated Big Sale Offer",
+        "b4": "Updated Buy Now",
+        "b5": "Updated Contact Us",
+        "b6": "Updated Big Sale Offer",
+        "b7": "Updated Buy Now",
+        "b8": "Updated Contact Us"
+    },
+    "category": {
+        "c0": "Updated Category",
+        "c1": "Updated Mobile",
+        "c2": "Add To Cart",
+        "c3": "Samsung",
+        "c4": "$500",
+        "c5": "$1000",
+        "c6": "Updated Watch",
+        "c7": "Add To Cart",
+        "c8": "Samsung",
+        "c9": "$500",
+        "c10": "$1000",
+        "c11": "Updated Camera",
+        "c12": "Add To Cart",
+        "c13": "Samsung",
+        "c14": "$500",
+        "c15": "$1000"
+    },
+    "computer": {
+        "s0": "Updated Computers and Laptop",
+        "s1": "Updated COMPUTER",
+        "s2": "Samsung",
+        "s3": "$500",
+        "s4": "$1000",
+        "s5": "Add To Cart",
+        "s6": "Updated LAPTOP",
+        "s7": "Dell",
+        "s8": "$500",
+        "s9": "$1000",
+        "s10": "Add To Cart",
+        "s11": "Updated MacOS",
+        "s12": "Apple",
+        "s13": "$500",
+        "s14": "$1000",
+        "s15": "Add To Cart"
+    },
+    "man": {
+        "man0": "Updated Man’s clothes",
+        "man1": "Best  Offer Every Man’s Iteams",
+        "man2": "Updated There are many variations of passages of Lorem Ipsum available,but the majority have",
+        "man3": "Updated Buy Now"
+    },
+    "woman": {
+        "w0": "Updated woman’s clothes",
+        "w1": "Get  Offer Every Iteams",
+        "w2": "Updated Buy Now"
+    },
+    "footer": {
+        "f0": "updated About",
+        "f1": "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation u",
+        "f2": "Menu",
+        "f3": "Useful Link",
+        "f4": "Contact",
+        "f5": "London 145 United Kingdom",
+        "f6": "+7586656566",
+        "f7": "+volim@gmail.com",
+        "f8": "Copyright 2019 All Right Reserved By ",
+        "f9": "Free  html Templates"
+    },
+    "images": {
+        "img1": "images/logo.png",
+        "img2": "images/img-1.png",
+        "img3": "images/img-2.png",
+        "img4": "images/img-1.png",
+        "img5": "images/img-2.png",
+        "img6": "images/img-1.png",
+        "img7": "images/img-7.png",
+        "img8": "images/mobile-img.png",
+        "img9": "images/watch-img.png",
+        "img10": "images/camera-img.png",
+        "img11": "images/computer-img.png",
+        "img12": "images/laptop-img.png",
+        "img13": "images/mac-img.png",
+        "img14": "images/img-3.png",
+        "img15": "images/img-4.png",
+        "img16": "images/footer-logo.png"
+    }
+}
