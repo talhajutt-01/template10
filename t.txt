@@ -79,6 +79,17 @@
         "f8": "Copyright 2019 All Right Reserved By ",
         "f9": "Free  html Templates"
     },
+
+       "color":{
+        "header":"grey",
+        "banner":"red",
+        "category":"red",
+        "computer":"grey",
+        "man":"red",
+        "woman":"grey",
+        "footer":"red"
+     },
+
     "images": {
         "img1": "images/logo.png",
         "img2": "images/img-1.png",
