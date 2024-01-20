@@ -5,7 +5,7 @@
         "img4": "images/img-1.png",
         "img5": "images/img-2.png",
         "img6": "images/img-1.png",
-        "img7": "images/img-7.png",
+        "img7": "images/img-2.png",
         "img8": "images/mobile-img.png",
         "img9": "images/watch-img.png",
         "img10": "images/camera-img.png",
