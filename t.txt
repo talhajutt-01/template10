@@ -88,24 +88,5 @@
         "man":"red",
         "woman":"grey",
         "footer":"red"
-     },
-
-    "images": {
-        "img1": "images/logo.png",
-        "img2": "images/img-1.png",
-        "img3": "images/img-2.png",
-        "img4": "images/img-1.png",
-        "img5": "images/img-2.png",
-        "img6": "images/img-1.png",
-        "img7": "images/img-7.png",
-        "img8": "images/mobile-img.png",
-        "img9": "images/watch-img.png",
-        "img10": "images/camera-img.png",
-        "img11": "images/computer-img.png",
-        "img12": "images/laptop-img.png",
-        "img13": "images/mac-img.png",
-        "img14": "images/img-3.png",
-        "img15": "images/img-4.png",
-        "img16": "images/footer-logo.png"
-    }
+     }
 }
